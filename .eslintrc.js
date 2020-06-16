@@ -27,6 +27,7 @@ module.exports = {
   },
   plugins: ["react"],
   rules: {
+    "import/order": "off",
     "no-console": 1,
     "no-case-declarations": 0,
     "no-nested-ternary": 0,
