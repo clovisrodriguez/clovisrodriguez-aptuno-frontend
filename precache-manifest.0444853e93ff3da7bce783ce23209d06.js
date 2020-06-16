@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a340afb63c5fdd36b705342fb82874d0",
+    "revision": "d3aed77badb99db0c33c56e0ceeddb1a",
     "url": "/clovisrodriguez-aptuno-frontend/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clovisrodriguez-aptuno-frontend/static/js/2.9b1fe64c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a37bc2c70e0beaf18372",
-    "url": "/clovisrodriguez-aptuno-frontend/static/js/main.05dce6b6.chunk.js"
+    "revision": "d4e0e112aa9dbda65732",
+    "url": "/clovisrodriguez-aptuno-frontend/static/js/main.dd287f78.chunk.js"
   },
   {
     "revision": "7eb2a0a0d6dc03c5c6bc",

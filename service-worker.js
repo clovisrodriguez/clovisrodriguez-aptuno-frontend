@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/clovisrodriguez-aptuno-frontend/precache-manifest.71188e04aecad6d8615b83ba3656f6f7.js"
+  "/clovisrodriguez-aptuno-frontend/precache-manifest.0444853e93ff3da7bce783ce23209d06.js"
 );
 
 self.addEventListener('message', (event) => {
