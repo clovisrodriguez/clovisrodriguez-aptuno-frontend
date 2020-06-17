@@ -1,6 +1,6 @@
 # Bienvenidos a la Aptuno App!
 
-![Snap de la app](./public/preview-app.jpg)
+![Snap de la app](./images/reference.png)
 
 Gracias por tomar el tiempo de revisar la app que he realizado para el code challenge de Front End, espero que cumpla con las expectativas del challenge pero creo que realmente lo hace, igual cualquier comentario que me pueda ayudar a seguir creciendo como desarrollador esta super bien recibido.
 
