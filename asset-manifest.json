@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/clovisrodriguez-aptuno-frontend/static/js/main.dd287f78.chunk.js",
-    "main.js.map": "/clovisrodriguez-aptuno-frontend/static/js/main.dd287f78.chunk.js.map",
-    "runtime-main.js": "/clovisrodriguez-aptuno-frontend/static/js/runtime-main.52857011.js",
-    "runtime-main.js.map": "/clovisrodriguez-aptuno-frontend/static/js/runtime-main.52857011.js.map",
-    "static/css/2.76c105bc.chunk.css": "/clovisrodriguez-aptuno-frontend/static/css/2.76c105bc.chunk.css",
-    "static/js/2.9b1fe64c.chunk.js": "/clovisrodriguez-aptuno-frontend/static/js/2.9b1fe64c.chunk.js",
-    "static/js/2.9b1fe64c.chunk.js.map": "/clovisrodriguez-aptuno-frontend/static/js/2.9b1fe64c.chunk.js.map",
-    "index.html": "/clovisrodriguez-aptuno-frontend/index.html",
-    "precache-manifest.0444853e93ff3da7bce783ce23209d06.js": "/clovisrodriguez-aptuno-frontend/precache-manifest.0444853e93ff3da7bce783ce23209d06.js",
-    "service-worker.js": "/clovisrodriguez-aptuno-frontend/service-worker.js",
-    "static/css/2.76c105bc.chunk.css.map": "/clovisrodriguez-aptuno-frontend/static/css/2.76c105bc.chunk.css.map",
-    "static/js/2.9b1fe64c.chunk.js.LICENSE.txt": "/clovisrodriguez-aptuno-frontend/static/js/2.9b1fe64c.chunk.js.LICENSE.txt",
-    "static/media/aptuno_logo_2colors.svg": "/clovisrodriguez-aptuno-frontend/static/media/aptuno_logo_2colors.f64d22fd.svg",
-    "static/media/not-available-list.png": "/clovisrodriguez-aptuno-frontend/static/media/not-available-list.7d08a506.png"
+    "main.js": "/static/js/main.dd287f78.chunk.js",
+    "main.js.map": "/static/js/main.dd287f78.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bd501350.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bd501350.js.map",
+    "static/css/2.76c105bc.chunk.css": "/static/css/2.76c105bc.chunk.css",
+    "static/js/2.c8c5b68d.chunk.js": "/static/js/2.c8c5b68d.chunk.js",
+    "static/js/2.c8c5b68d.chunk.js.map": "/static/js/2.c8c5b68d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1776e4444d3e7a0c27457faff248715b.js": "/precache-manifest.1776e4444d3e7a0c27457faff248715b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.76c105bc.chunk.css.map": "/static/css/2.76c105bc.chunk.css.map",
+    "static/js/2.c8c5b68d.chunk.js.LICENSE.txt": "/static/js/2.c8c5b68d.chunk.js.LICENSE.txt",
+    "static/media/aptuno_logo_2colors.svg": "/static/media/aptuno_logo_2colors.f64d22fd.svg",
+    "static/media/not-available-list.png": "/static/media/not-available-list.7d08a506.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.52857011.js",
+    "static/js/runtime-main.bd501350.js",
     "static/css/2.76c105bc.chunk.css",
-    "static/js/2.9b1fe64c.chunk.js",
+    "static/js/2.c8c5b68d.chunk.js",
     "static/js/main.dd287f78.chunk.js"
   ]
 }
