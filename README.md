@@ -17,3 +17,23 @@ Seguido de un
 ```
 yarn start
 ```
+
+Rodar Pruebas
+
+```
+yarn test
+```
+
+Cubrimiento de testing del base code
+
+```
+yarn testCoverage
+
+```
+
+Pruebas con hot realoding
+
+```
+yarn testWatch
+
+```
